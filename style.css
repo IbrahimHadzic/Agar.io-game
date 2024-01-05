@@ -1,0 +1,135 @@
+
+
+
+.navbar{
+    max-width: 100%;
+    background-color: rgb(100, 150, 100);
+    box-shadow: 0 1px 5px rgb(10, 51, 65);
+	margin-bottom: 20px;
+}
+
+
+.uln{
+    background-color: rgb(100, 150, 100);
+
+    margin: 0 0px;
+    padding: 10px;
+    text-align: center;
+}
+
+
+.lin{
+    background-color: rgb(100, 150, 100);
+    float: right;
+    padding: 0 15px;
+    text-decoration: none;
+}
+
+
+.lin a{
+    background-color: rgb(100, 150, 100);
+    color: whitesmoke;
+    
+    padding: 15px;
+
+    text-decoration: none;
+}
+
+
+.lin a:hover{
+    color: rgb(186, 245, 186);
+    background-color: rgb(79, 128, 79);
+}
+
+
+.lin a:active{
+    background-color: rgb(156, 231, 156);
+    
+}
+
+
+
+
+.header{
+	background-color: blueviolet;
+}
+
+
+.h11{
+
+	color: whitesmoke;
+	text-align: center;
+}
+
+
+
+.koko{
+	margin: 25px;
+}
+
+
+.dugme{
+	margin: 20px 0;
+}
+
+
+
+#circle{
+	background-color: rgb(156, 231, 156);
+	margin-left: 25px;
+	border: 1px solid black;
+	display: block;
+	align-self: center;
+}
+
+
+
+.divva{
+	margin: 15px 25px;
+
+}
+
+
+.ha1{
+	margin-right: 11px;
+	display: inline;
+
+}
+
+
+.unavu{
+
+    display: inline;
+    float: right;
+    margin-right: 50%;
+}
+
+
+.unavu a{
+    font-size: 30px;
+    color: whitesmoke;
+    text-decoration: none;
+
+}
+
+.unavu a:hover{
+    color: rgb(186, 245, 186);
+}
+
+
+.unavu a:active{
+    background-color: rgb(156, 231, 156);
+    
+}
+
+
+
+
+
+@media (max-width: 650px) {
+    .unavu{
+        margin-right: 0;
+
+      }
+	
+}
